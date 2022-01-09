@@ -1,4 +1,4 @@
-# Teacher Tutor
+# Teacher Tool
 
 
 This is a project that I made in 8 hours for a hackathon  (don't judge too harshly for the bad code, UI and security haha).
